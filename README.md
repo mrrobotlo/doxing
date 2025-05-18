@@ -15,6 +15,7 @@ Alat sederhana untuk doxing via nomor telepon. Jalankan langsung di Termux, tanp
 1. Clone Repositori
 
 git clone https://github.com/mrrobotlo/doxing
+
 cd doxing
 
 2. Jalankan Tool
